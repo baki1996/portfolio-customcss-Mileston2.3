@@ -36,9 +36,9 @@ const Projects = () => {
         <div className="project-card">
           <Image src={"/images/resume.png"} alt='project image' height={500} width={500}/>
           <h3>Resume Builder</h3>
-          <p>Life isn't about getting and having, it's about giving and being. — ...
-        Whatever the mind of man can conceive and believe, it can achieve. — ...
-            Strive not to be a success, but rather to be of value. —</p>
+          <p>Life isn't about getting and having, it's about giving and being. 
+        Whatever the mind of man can conceive and believe, it can achieve. 
+            Strive not to be a success, but rather to be of value. </p>
           <div className="btn-group">
             <div className="btn"> <Link className='Link' href={"https://hackathon-milestone3-resume-builder.vercel.app/"} target='_blank'>live Demo</Link></div>
 
