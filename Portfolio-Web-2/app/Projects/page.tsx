@@ -12,10 +12,7 @@ const Projects = () => {
         <div className="Event Planner">
           <Image src={"/images/bg.png"} alt='project image' height={400} width={250}/>
           <h3>Event Planner WabPage</h3>
-          <p>Creating unforgettable memories, one event at a time.
-                    Making your dream event a reality.
-                   Exceptional events, extraordinary experiences.
-                  Where creativity meets perfection</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quisquam eveniet dignissimos. Debitis sapiente deleniti saepee repellat</p>
           <div className="btn-group">
             <div className="btn"><Link className='Link' href={"https://event-planner-web-page-milestone2-1.vercel.app/"} target='_blank'>Live Demo</Link></div>
             <div className="btn"><Link className='Link' href={"https://github.com/baki1996/Event-planner-web-page-Milestone2.1.git"} target='_blank'>Github Link</Link></div>
@@ -36,9 +33,7 @@ const Projects = () => {
         <div className="project-card">
           <Image src={"/images/resume.png"} alt='project image' height={500} width={500}/>
           <h3>Resume Builder</h3>
-          <p>Life isn't about getting and having, it's about giving and being. 
-        Whatever the mind of man can conceive and believe, it can achieve. 
-            Strive not to be a success, but rather to be of value. </p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quisquam eveniet dignissimos. Debitis sapiente deleniti saepee repellat</p>
           <div className="btn-group">
             <div className="btn"> <Link className='Link' href={"https://hackathon-milestone3-resume-builder.vercel.app/"} target='_blank'>live Demo</Link></div>
 
